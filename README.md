@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anar1996
-- 👀 I’m interested in programming languageş
-- 🌱 I’m currently learning Java programming languageş
+- 👀 I’m interested in programming language.
+- 🌱 I’m currently learning Java programming language.
 - 💞️ I’m looking to collaborate on web project.
 - 📫 How to reach me https://www.linkedin.com/in/anarmemmedov1501/ .
 
