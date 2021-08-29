@@ -9,7 +9,7 @@ anar1996/anar1996 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h1> Summary:</h1><br/>
-<p>Hi there. I am Anar Mammadli,👋 I live in Baku. I love developing and learning software. Backend locations are more interesting to me. 
+<p>Hi there. I am Anar Mammadov,👋 I live in Baku. I love developing and learning software. Backend locations are more interesting to me. 
 
 I develop and learn projects with Java, Servlet, JSP, JSF, Spring and Spring Boot framework Java programming languages. &#x1F60E;</p>
 <p>I make my projects using layered architecture and develop in accordance with SOLID software development principles.</p>
